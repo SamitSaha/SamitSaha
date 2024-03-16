@@ -37,3 +37,10 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samitsaha&show_icons=true&locale=en" alt="samitsaha" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samitsaha&" alt="samitsaha" /></p>
+
+<!--START_SECTION:waka-->
+              - name: Profile Readme Development Stats
+                uses: anmol098/waka-readme-stats@v4
+<!--END_SECTION:waka-->
+
+            
