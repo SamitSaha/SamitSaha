@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)]http://ww38.rishavchanda.io/)
+[![MasterHead](https://assets-global.website-files.com/5ab25784c7fcbff004fa8dca/5ec29825611fe07889ec0b7f_PS5-1-360p-0fd9845a-e589-476f-b68f-8d7a5a2a2519.gif)](http://ww38.rishavchanda.io/)
 
 <h1 align="center">Hi 👋, I'm Samit Saha</h1>
 <h3 align="center">A passionate frontend developer from Dhaka, Bangladesh</h3>
